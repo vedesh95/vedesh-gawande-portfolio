@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vedesh-gawande-portfolio/static/css/main.e7b13429.css",
-    "main.js": "/vedesh-gawande-portfolio/static/js/main.d247ce22.js",
+    "main.js": "/vedesh-gawande-portfolio/static/js/main.f9200012.js",
     "static/js/453.b05d8aa5.chunk.js": "/vedesh-gawande-portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/sudoku.png": "/vedesh-gawande-portfolio/static/media/sudoku.aec7bf6d72030eb6bbdf.png",
     "static/media/converter.png": "/vedesh-gawande-portfolio/static/media/converter.07fe254c70e586372a13.png",
@@ -13,11 +13,11 @@
     "static/media/bookmyshow.png": "/vedesh-gawande-portfolio/static/media/bookmyshow.fd8b24cc7339290d87fe.png",
     "index.html": "/vedesh-gawande-portfolio/index.html",
     "main.e7b13429.css.map": "/vedesh-gawande-portfolio/static/css/main.e7b13429.css.map",
-    "main.d247ce22.js.map": "/vedesh-gawande-portfolio/static/js/main.d247ce22.js.map",
+    "main.f9200012.js.map": "/vedesh-gawande-portfolio/static/js/main.f9200012.js.map",
     "453.b05d8aa5.chunk.js.map": "/vedesh-gawande-portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7b13429.css",
-    "static/js/main.d247ce22.js"
+    "static/js/main.f9200012.js"
   ]
 }
