@@ -39,7 +39,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faJava} size="3x"/>
                     <h3>Java Backend</h3>
-                    <p>Experienced in building scalable backend systems using Java and Spring Boot. Proficient in designing RESTful APIs, microservices, and integrating with databases. Focused on clean code, design principles, and performance</p>
+                    <p>Experienced in building scalable backend systems using Java and Spring Boot. Proficient in designing RESTful APIs, microservices, and integrating with databases. Focused on clean code, design principles, and performance.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
