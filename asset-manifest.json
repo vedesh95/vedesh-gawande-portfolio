@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vedesh-gawande-portfolio/static/css/main.e7b13429.css",
+    "main.js": "/vedesh-gawande-portfolio/static/js/main.d247ce22.js",
+    "static/js/453.b05d8aa5.chunk.js": "/vedesh-gawande-portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/sudoku.png": "/vedesh-gawande-portfolio/static/media/sudoku.aec7bf6d72030eb6bbdf.png",
+    "static/media/converter.png": "/vedesh-gawande-portfolio/static/media/converter.07fe254c70e586372a13.png",
+    "static/media/codesnip.png": "/vedesh-gawande-portfolio/static/media/codesnip.62a880a28c343e0179a8.png",
+    "static/media/bg-light.png": "/vedesh-gawande-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/sorting.png": "/vedesh-gawande-portfolio/static/media/sorting.be27a8e68597b113af13.png",
+    "static/media/bg-dark.png": "/vedesh-gawande-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/profile_pic.jpeg": "/vedesh-gawande-portfolio/static/media/profile_pic.cc5bd20b8ddda31c0965.jpeg",
+    "static/media/bookmyshow.png": "/vedesh-gawande-portfolio/static/media/bookmyshow.fd8b24cc7339290d87fe.png",
+    "index.html": "/vedesh-gawande-portfolio/index.html",
+    "main.e7b13429.css.map": "/vedesh-gawande-portfolio/static/css/main.e7b13429.css.map",
+    "main.d247ce22.js.map": "/vedesh-gawande-portfolio/static/js/main.d247ce22.js.map",
+    "453.b05d8aa5.chunk.js.map": "/vedesh-gawande-portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7b13429.css",
+    "static/js/main.d247ce22.js"
+  ]
+}
